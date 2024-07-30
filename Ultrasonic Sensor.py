@@ -13,6 +13,6 @@ try:
       
 # Press 'CTRL + C' to stop execution
 except KeyboardInterrupt:
-    print("Distance reading stopped!)
-    break
+    print("Distance reading stopped!")
+    exit
 
